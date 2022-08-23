@@ -1,0 +1,9 @@
+collate_fn:
+  normal:
+    imgH: 64
+    imgW: 512
+    keep_ratio_with_pad: True
+    adjust_contrast: 0.0
+
+batch_size: 1
+worker: 1
